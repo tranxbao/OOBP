@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "JAUHELIHA",
+        "desc": "Kotipizza-juusto, jauhelihakastike.",
+        "price": 9.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-jauheliha_1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "KEBAB",
+        "desc": "Kebabkastike, puoli juustoa, kebabliha, salaatti (uunin jälkeen), punasipuli, valkosipulimajoneesi.",
+        "price": 12.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-kebab_2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "AMERICANA",
+        "desc": "Kotipizza-juusto, kinkku, ananas, Aura-sinihomejuusto.",
+        "price": 11.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-americana_3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "BERLUSCONI",
+        "desc": "Kotipizza-juusto, savuporo, kantarelli, punasipuli.",
+        "price": 13.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-berlusconi_4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "BURGER",
+        "desc": "Puoli juustoa, cheddarjuustokastike, beef’n’roast-naudanjauheliha, salaatti (uunin jälkeen).",
+        "price": 11.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-burger_5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "LIHAMESTARI",
+        "desc": "Kotipizza-juusto, kinkku, paahdettu pekoni, kebabliha, pepperonimakkara, beef’n’roast-naudanjauheliha.",
+        "price": 13.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-lihamestari_6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "MOZZARELLA",
+        "desc": "Puoli juustoa, rucolanverso (uunin jälkeen), kirsikkatomaatti (uunin jälkeen), mozzarella (uunin jälkeen), salaatti (uunin jälkeen).",
+        "price": 12.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-mozzarella_7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "PARMIAMO",
+        "desc": "Puoli juustoa, rucolanverso (uunin jälkeen), kirsikkatomaatti (uunin jälkeen), parmesaanijuusto.",
+        "price": 13.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-parmiamo-uusi_8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "POLLO AMERICANA",
+        "desc": "Kotipizza-juusto, pariloitu kananpoika, ananas, Aura-sinihomejuusto.",
+        "price": 11.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-pollo-americana_9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "SUPERSEITA",
+        "desc": "Vegaaninen juustovalmiste, keltainen banaanichili, paprika, seitan, vegaaninen valkosipulimajoneesi.",
+        "price": 12.90,
+        "image": { "fields": { "file": { "url": "./images/pizza-superseitan_10.jpg" } } }
+      }
+    }
+  ]
+}
